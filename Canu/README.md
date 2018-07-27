@@ -21,6 +21,9 @@ See canu.sh script for specific modules used on QUT HPC.
 
 Explanation of options:
   useGrid=0                 : Grid options don't appear compatible with QUT HPC
+  
   correctedErrorRate=0.065  : Recommended Pacbio Sequel error rate for assembly
+  
   corMhapSensitivity=normal : Recommended Pacbio Sequel setting
+  
   genomeSize=340m           : Helicoverpa estimated genome size
